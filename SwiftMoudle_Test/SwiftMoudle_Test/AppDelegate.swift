@@ -6,6 +6,7 @@
 //
 
 import UIKit
+let a = 1
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
